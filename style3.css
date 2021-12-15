@@ -294,18 +294,18 @@ footer{
 @media only screen and (max-width:1180px){
    
     .line{
-        margin-left: 80px;
+        margin-left: 30px;
     }
 
     p{
-        margin-left: 80px;
+        margin-left: 30px;
     }
 
     .article p{
-        margin-left: 50px;
+        margin-left: 30px;
     }
 
     .image{
-        margin-left: 50px;
+        margin-left: 30px;
     }
 }
